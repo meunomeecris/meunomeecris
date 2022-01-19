@@ -14,6 +14,6 @@
 
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=meunomeecris"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meunomeecris"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=meunomeecris"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meunomeecris"/>
 </div> 
