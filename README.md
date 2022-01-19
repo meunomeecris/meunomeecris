@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**meunomeecris/meunomeecris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🤠 I have a degree in graphic design and I'm looking for new challenges in the iOS development world.
 
 - 🔭 I’m currently working on personal project called Partília
 - 🌱 I’m currently learning Swift and SwiftUI
@@ -13,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: meunomeecriss@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: indie made in Goias, Brazil.
--->
+
 
 
 <div>
