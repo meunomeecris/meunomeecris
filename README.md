@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on personal project called Partília
 - 🌱 I’m currently learning Swift and SwiftUI
-- - 📫 How to reach me: meunomeecriss@gmail.com
-- - ⚡ Fun fact: indie made in Goias, Brazil.
+- 📫 How to reach me: meunomeecriss@gmail.com
+- ⚡ Fun fact: indie made in Goias, Brazil.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
