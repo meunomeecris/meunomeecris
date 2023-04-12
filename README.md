@@ -3,7 +3,7 @@
 🤠 I have a degree in graphic design, and for the last years I have being working as Product Design, and I am interesting in study iOS development.
 
 - 🔭 I’m currently working on personal project called movieApp
-- 🌱 I’m currently learning Swift and SwiftUI
+- 🌱 I’m currently learning HTML / CSS / JavaScript
 - 📫 How to reach me: meunomeecriss@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
