@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤠 I have a degree in graphic design, and for the last years I have being working as Product Design, and I am interesting in study iOS development.
+🤠 I have a degree in graphic design, and for the last years I have being working as Product Design, and I am interesting in study development.
 
 - 🔭 I’m currently working on personal project called movieApp
 - 🌱 I’m currently learning HTML / CSS / JavaScript
