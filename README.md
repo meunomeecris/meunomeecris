@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on personal project called movieApp
 - 🌱 I’m currently learning Swift e SwiftUI
 - 👩🏻‍💻 Exercism - Swift Journey https://exercism.org/profiles/meunomeecris
+- 👩🏻‍💻 Codechef - Swift Problems https://www.codechef.com/users/meunomeecriss
 - 📫 How to reach me: meunomeecriss@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
