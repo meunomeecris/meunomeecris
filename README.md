@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤠 I have a degree in graphic design, and for the last years I have being working as Product Design. Now I am dedicating to learn iOS  development.
+🤠🇧🇷 I have a degree in graphic design, and for the last years I have being working as Product Design. Now I am dedicating to learn iOS  development.
 
 - 🔭 I’m currently working on personal project called Evidence
 - 🌱 I’m currently learning Swift e SwiftUI
