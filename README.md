@@ -1,17 +1,16 @@
-### Hi there 👋
+### 🧃Oi! Hi! Hola! Salut !🇧🇷
 
-🤠🇧🇷 I have a degree in graphic design, and for the last years I have being working as Product Design. Now I am dedicating to learn iOS  development.
+🤠 This year, I've set my sights on becoming an iOS developer. I'm excited to combine my design skills with coding to create user-friendly, and accessible mobile apps.
 
-- 🔭 I’m currently working on personal project called Evidence
+- 🔭 I’m currently working on personal project called Evidence with my best @vinicioss.a.ro
 - 🌱 I’m currently learning Swift e SwiftUI
 - 👩🏻‍💻 Exercism - Swift Journey https://exercism.org/profiles/meunomeecris
 - 👩🏻‍💻 Codechef - Swift Problems https://www.codechef.com/users/meunomeecriss
 - 📫 How to reach me: meunomeecriss@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with mentoring, participate of code pairs, 
 - 💬 Ask me about ... 
 - 😄 Pronouns: ... -->
-
 
 
 
