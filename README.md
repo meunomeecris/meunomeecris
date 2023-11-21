@@ -1,4 +1,4 @@
-<h1 align="center"> Oi, Hello, Salut, Hola! I'm Cris Messias</h1>
+<h1 align="center"> Oi, Hello, Hola, Salut ! I'm Cris Messias</h1>
 <h3 align="center"> 🇧🇷 iOS Developer & Product designer </h3>
 <h5></h5>I've set my sights on becoming an iOS developer. I'm excited to combine my design skills with coding to create user-friendly, and accessible mobile apps.</h5>
 <br><br>
