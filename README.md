@@ -3,7 +3,7 @@
 <h5></h5>I've set my sights on becoming an iOS developer. I'm excited to combine my design skills with coding to create user-friendly, and accessible mobile apps.</h5>
 <br><br>
 
-- 🔭 I'm working on a personal project **Evidência** with my friend @viniciusaro https://github.com/viniciusaro/evidence 
+- 🔭 I'm working on a personal project **Evidence** with my friend @viniciusaro https://github.com/viniciusaro/evidence 
 - 🌱 I’m currently learning Swift, SwiftUI, and iOS Development
 - 🤔 I’m looking for help with mentoring, participating in code pairs, and internship...
 - 📄 Know about my experiences https://www.notion.so/meunomeecris/Oi-Hi-Hola-Salut-I-am-Cris-Messias-454a95268b7148a8b7cf11b738657137?pvs=4
