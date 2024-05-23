@@ -7,13 +7,10 @@
 - 🌱 I’m currently learning Swift, SwiftUI, and iOS Development
 - 🤔 I’m looking for help with mentoring, participating in code pairs, and internship...
 - 📄 Know about my experiences https://www.notion.so/meunomeecris/Oi-Hi-Hola-Salut-I-am-Cris-Messias-454a95268b7148a8b7cf11b738657137?pvs=4
-- 👩🏻‍💻 Exercism - Swift Journey  https://exercism.org/profiles/meunomeecris
-- 👩🏻‍💻 Codechef - Swift Problems  https://www.codechef.com/users/meunomeecriss
 - 🔗 Linkedin: https: //www.linkedin.com/in/meunomeecris/
 - 📫 How to reach me: meunomeecriss@gmail.com
 - 💬 Ask me about trips, cultures, vegetarian lifestyles, football, learning languages, movies, and music...
 <br>
-
 
 
 
