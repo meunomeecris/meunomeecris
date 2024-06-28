@@ -4,7 +4,7 @@
 <br><br>
 
 - 🔭 I'm working on two personal projects:  **Catto** https://github.com/meunomeecris/catto , and **Evidence** with my friend @viniciusaro https://github.com/viniciusaro/evidence
-- 🌱 I’m currently learning Swift, SwiftUI, and iOS Development
+- 🌱 I’m currently learning Swift, SwiftUI, and Flutter.
 - 🤔 I’m looking for help with mentoring, participating in code pairs, and internship...
 - 📄 Know about my experiences https://www.notion.so/meunomeecris/Oi-Hi-Hola-Salut-I-am-Cris-Messias-454a95268b7148a8b7cf11b738657137?pvs=4
 - 🔗 Linkedin: https: //www.linkedin.com/in/meunomeecris/
