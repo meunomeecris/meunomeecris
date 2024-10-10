@@ -6,7 +6,7 @@
 - 🔭 I'm working on two personal projects:  **Catto** https://github.com/meunomeecris/catto , and **Evidence** with my friend @viniciusaro https://github.com/viniciusaro/evidence
 - 🌱 I’m currently learning Swift, SwiftUI, and Flutter.
 - 🤔 I’m looking for help with mentoring, participating in code pairs, and internship...
-- 📄 Know about my experiences https://www.meunomeecris.com
+- 📄 Know about my experiences https://meunomeecris.com
 - 🔗 Linkedin: https: //www.linkedin.com/in/meunomeecris/
 - 📫 How to reach me: meunomeecriss@gmail.com
 - 💬 Ask me about trips, cultures, vegetarian lifestyles, football, learning languages, movies, and music...
