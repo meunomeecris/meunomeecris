@@ -1,15 +1,10 @@
 <h1 align="center"> Oi, Hello, Hola, Salut ! I'm Cris Messias</h1>
-<h3 align="center"> 🇧🇷 Mobile iOS & Product designer </h3>
-<h5></h5>I've set my sights on becoming an iOS developer. I'm excited to combine my design skills with coding to create user-friendly, and accessible mobile apps.</h5>
-<br><br>
+<h3 align="center"> 🇧🇷 iOS Developer & Product designer </h3>
 
 - 🔭 I'm working on two personal projects:  **Catto** https://github.com/meunomeecris/catto , and **Evidence** with my friend @viniciusaro https://github.com/viniciusaro/evidence
 - 🌱 I’m currently learning Swift and iOS Development.
 - 📚 I'm currently pursuing a Postgraduate Degree in Mobile Development.
 - 🤔 I’m looking for help with mentoring, participating in code pairs, and internship...
-- 📄 Know about my experiences https://meunomeecris.com
-- 🔗 Linkedin: https: //www.linkedin.com/in/meunomeecris/
-- 📫 How to reach me: meunomeecriss@gmail.com
 - 💬 Ask me about trips, cultures, vegetarian lifestyles, football, learning languages, movies, and music...
 <br>
 
