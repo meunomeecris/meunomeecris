@@ -14,9 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meunomeecris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meunomeecris" height="30" width="40" /></a>
-<a href="https://www.behance.net/meunomeecris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="meunomeecris" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/meunomeecris" target="blank"><img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="meunomeecris" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meunomeecris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meunomeecris" height="40" width="40" /></a>
+<a href="https://www.behance.net/meunomeecris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="meunomeecris" height="40" width="40" /></a>
+<a href="https://exercism.org/profiles/meunomeecris" target="blank"><img align="center" src="https://forum.exercism.org/uploads/default/original/1X/00c42892adffd47116f7ceac12de403ff790ca38.png" alt="meunomeecris" height="40" width="40" /></a>
+ <a href="https://www.codewars.com/users/meunomeecris" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5387632?s=280&v=4" alt="meunomeecris" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
