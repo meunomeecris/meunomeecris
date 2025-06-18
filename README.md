@@ -4,7 +4,7 @@
 <h3 align="center"> 🇧🇷 iOS Developer & Product designer </h3>
 
 - 📚 I'm currently pursuing a **Postgraduate Degree in Mobile Development.**
-- 🔭 I’m currently working on **[Risko](https://apps.apple.com/fr/app/risko/id6744692052?l=en-GB)**
+- 🔭 I’m currently working on **[evidenceLab](https://evidencelab.carrd.co)** | iOS development, done in pair.
 - 🌱 I’m currently learning **Swift | SwiftUI**
 - 🤔 I’m looking for help with mentoring, participating in code pairs, and an internship...
 - 🌐 I can communicate in **native Portuguese (Brazil) | English | French | Spanish**
