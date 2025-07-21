@@ -9,7 +9,7 @@
 
 👩🏻‍💻 I'm looking for an internship (from now until November 30) or my first opportunity in the field
 
-🌐 I can communicate in **native Portuguese (Brazil) | English | French | Spanish**
+🌐 I can communicate in **Portuguese (Brazil) | English | French | Spanish**
 
 💬 Ask me about **trips, trails, vegetarian lifestyles, football, cultures, movies, and music...**
 
