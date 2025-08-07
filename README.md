@@ -5,7 +5,7 @@
 
 🎓 I'm currently pursuing a **Postgraduate Degree in Mobile Development** at [Anhanguera](https://www.anhanguera.com)
 
-📚 I am improving my knowledge [iOSBootcamp](https://www.notion.so/meunomeecris/22e1a82330ef8080b02dc96a0663dcb5?v=22e1a82330ef81da97cf000c725a595b&source=copy_link)
+📚 I👩🏻‍💻 I'm currently taking the Harvard CS50 course - Introduction to Computer Science [Harvard CS50 - Introduction to Computer Science](https://cs50.harvard.edu/x/)
 
 👩🏻‍💻 I'm looking for an internship (from now until November 30) or my first opportunity in the field
 
