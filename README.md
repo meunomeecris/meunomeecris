@@ -28,7 +28,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
- <a href="https://developer.apple.com/documentation/swiftui" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png" alt="swiftui" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png" alt="swiftui" width="40" height="40"/> </a>
+ <a href="https://developer.apple.com/documentation/swiftui" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="swiftui" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="firebase" width="40" height="40"/> </a>
  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" alt="xcode" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
