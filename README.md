@@ -3,11 +3,9 @@
 <h1 align="center"> Oi, Hello, Hola, Salut ! I'm Cris Messias</h1>
 <h3 align="center"> 🇧🇷 iOS Developer Junior & Product Designer </h3>
 
-🎓 I'm currently pursuing a **Postgraduate Degree in Mobile Development** at [Anhanguera](https://www.anhanguera.com)
+👩🏻‍💻 I'm currently working as an iOS Developer as a freelancer
 
-📚 I'm currently taking the [Harvard CS50 - Introduction to Computer Science](https://cs50.harvard.edu/x/)
-
-👩🏻‍💻 I'm looking for an internship (from now until November 30) or my first opportunity in the field
+👩🏻‍💻 I'm looking for an opportunity in the industry 
 
 🌐 I can communicate in **Portuguese (Brazil) | English | French | Spanish**
 
