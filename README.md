@@ -40,9 +40,3 @@
 </p>
 <br>
 
-<h3 align="left">Overview:</h3>
- <div>
-  <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=meunomeecris&"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=meunomeecris"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meunomeecris"/>
-</div> 
