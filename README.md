@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=meunomeecris&label=Profile%20views&color=0e75b6&style=flat" alt="meunomeecris" />
 
 <h1 align="center"> Oi, Hello, Hola, Salut ! I'm Cris Messias</h1>
-<h3 align="center"> 🇧🇷 iOS Developer Junior & Product Designer </h3>
+<h3 align="center"> 🇧🇷  iOS Developer Swift | SwiftUI & Product Designer </h3>
 
 👩🏻‍💻 I'm currently working as an iOS Developer as a freelancer
 
