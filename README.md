@@ -3,8 +3,6 @@
 <h1 align="center"> Oi, Hello, Hola, Salut ! I'm Cris Messias</h1>
 <h3 align="center"> 🇧🇷  iOS Developer Swift | SwiftUI & Product Designer </h3>
 
-👩🏻‍💻 I'm currently working as an iOS Developer as a freelancer
-
 👩🏻‍💻 I'm looking for an opportunity in the industry 
 
 🌐 I can communicate in **Portuguese (Brazil) | English | French | Spanish**
